@@ -6,7 +6,7 @@ A full-stack application and tool suite that enables you to turn any document, r
 
 
 ![Chatting](/images/screenshots/chat.png)
-[view more screenshots](/images/screenshots/SCREENSHOTS.md)
+[view more screenshots](/images/screenshots/SCREENSHOTS.md) 
 
 ### Watch the demo!
 
